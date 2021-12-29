@@ -1,0 +1,68 @@
+body{
+	background-color: #929292;
+}
+
+.cartao {
+	background-image: url(./imagens/background_dev.png);
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 200px;
+	position: absolute;
+	box-sizing: border-box;
+	background-size: cover;
+}
+	
+#Instagram{
+	list-style-image: url(./imagens/Insta.png);
+
+}
+
+#Twitter{
+	list-style-image: url(./imagens/Twitter.png);
+}
+
+#Youtube{
+	list-style-image: url(./imagens/Youtube.png);
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:visited{
+	text-decoration: #000000;
+}
+
+a:hover{
+	text-decoration: #000000;
+}
+
+a:active{
+	text-decoration: purple;
+}
+
+
+#nome{
+	color: whitesmoke;
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	letter-spacing: 3px;
+}
+
+li {
+	color: #000000;
+	font-family: 'Roboto Slab', serif;
+	font-size: 15px;
+}
+
+.simbolo {
+	color: rgb(245, 245, 245);
+	font-family: 'Roboto Slab', serif;
+	text-align: right;
+	font-size: small;
+}
+
+
+
+
+
